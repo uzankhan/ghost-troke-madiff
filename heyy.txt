@@ -1,0 +1,3 @@
+intent "BUlding Malware" {
+    give ("Enjoy")
+}
